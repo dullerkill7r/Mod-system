@@ -23,7 +23,8 @@
     "18317037164" : true,
     "18231595863" : true,
     "103774588998278" : true,
-    "81965255646103" : true
+    "81965255646103" : true,
+    "77889780099227": true
   },
   "shirts": {
     "17798024169": true
@@ -44,11 +45,17 @@
   "rightarm": {},
   "leftarm": {},
   "dynamichead": {},
-  "emotes": {},
+  "emotes": {
+    "93641632427451": true,
+    "125277274509344": true,
+    "139954241746555": true,
+    "77957159646421": true
+  },
   "blacklistedKeywords": [
     "bodysuit",
     "female cropped",
     "bunny suit",
-    "bikini"
+    "bikini",
+    "neck roll"
   ]
 }
