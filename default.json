@@ -1,6 +1,6 @@
 {
   "DoubleScanning": false,
-  "URL": null,
+  "URL": "",
   "kick": {
     "enabled": true,
     "reason": "flagged appearance"
