@@ -1,5 +1,5 @@
 {
-  "DoubleScanning": false,
+  "DoubleScanning": true,
   "URL": "",
   "kick": {
     "enabled": true,
