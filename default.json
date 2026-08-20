@@ -4,5 +4,9 @@
   "kick": {
     "enabled": true,
     "reason": "flagged appearance"
-  }
+  },
+
+
+
+  "debug": true
 }
