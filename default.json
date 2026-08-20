@@ -1,0 +1,8 @@
+{
+  "DoubleScanning": false,
+  "URL": null,
+  "kick": {
+    "enabled": true,
+    "reason" = "flagged appearance"
+  }
+}
