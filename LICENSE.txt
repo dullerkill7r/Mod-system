@@ -1,0 +1,21 @@
+Copyright (c) 2026 @dullerkill3r - Mod system . All Rights Reserved.
+
+Ownership sources
+https://www.roblox.com/users/630064214/profile https://devforum.roblox.com/u/dullerkill7r/summary
+
+NOTICE TO ALL USERS
+
+By downloading, installing, linking, or otherwise utilizing this system, module, codebase, or associated databases (collectively, the Software), you agree to be bound by the following terms
+
+1. PERMITTED USE
+You are granted a limited, non-exclusive, non-transferable license to implement and run the official Software in your Roblox experiences directly via the official provided loaders and endpoints.
+
+2. RESTRICTIONS
+You expressly CANNOT and SHALL NOT
+  a. Modify, edit, adapt, alter, or create derivative works of any part of this Software, including its Lua/Luau scripts, JSON databases, asset ID blacklists, or configurations.
+  b. Distribute, re-host, share, fork, sub-license, rent, lease, or sell any portion of the Software or database to third parties.
+  c. Remove, alter, hide, or replace any branding elements, including but not limited to the project name, trademarked logos, UI components, or Discord webhook icons & names.
+  d. Claim ownership or authorship of the Software, its branding assets, or its central databases under any circumstances.
+
+3. RESERVATION OF RIGHTS & TERMINATION
+All title, ownership rights, and intellectual property in and to the Software remain exclusively with @dullerkill3r - Mod system. Failure to comply with any section of this agreement revokes your permission to use the Software instantly and may result in access revocation via central database blacklists.
