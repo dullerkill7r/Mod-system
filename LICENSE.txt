@@ -8,14 +8,15 @@ NOTICE TO ALL USERS
 By downloading, installing, linking, or otherwise utilizing this system, module, codebase, or associated databases (collectively, the Software), you agree to be bound by the following terms
 
 1. PERMITTED USE
-You are granted a limited, non-exclusive, non-transferable license to implement and run the official Software in your Roblox experiences directly via the official provided loaders and endpoints.
+You are granted a limited, non-exclusive, non-transferable license to implement and run the official Software in your Roblox experiences solely via the official provided loaders, APIs, and endpoints. Accessing or querying the backend databases without running the official Software is strictly prohibited.
 
 2. RESTRICTIONS
-You expressly CANNOT and SHALL NOT
-  a. Modify, edit, adapt, alter, or create derivative works of any part of this Software, including its Lua/Luau scripts, JSON databases, asset ID blacklists, or configurations.
-  b. Distribute, re-host, share, fork, sub-license, rent, lease, or sell any portion of the Software or database to third parties.
-  c. Remove, alter, hide, or replace any branding elements, including but not limited to the project name, trademarked logos, UI components, or Discord webhook icons & names.
-  d. Claim ownership or authorship of the Software, its branding assets, or its central databases under any circumstances.
+You expressly CANNOT and SHALL NOT:
+  a. Scrape, extract, copy, dump, export, or store any portion of the central databases, asset ID blacklists, or API payloads outside of the official Software execution context.
+  b. Modify, edit, adapt, alter, or create derivative works of any part of this Software or its databases.
+  c. Distribute, re-host, share, fork, sub-license, rent, lease, or sell any portion of the Software, raw databases, or compiled blacklists to third parties.
+  d. Remove, alter, hide, or replace any branding elements, including project names, logos, UI components, or Discord webhook branding.
+  e. Claim ownership or authorship of the Software, its branding assets, or its databases under any circumstances.
 
 3. RESERVATION OF RIGHTS & TERMINATION
 All title, ownership rights, and intellectual property in and to the Software remain exclusively with @dullerkill3r - Mod system. Failure to comply with any section of this agreement revokes your permission to use the Software instantly and may result in access revocation via central database blacklists.
